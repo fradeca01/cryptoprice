@@ -1,0 +1,12 @@
+Package: cryptoprice
+Type: Package
+Title: Crypto util to get the price of a currency
+Version: 0.1.0
+Author: fradeca01
+Description: get the price of a cryptocurrency using the CoinGecko API
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
