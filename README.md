@@ -16,4 +16,4 @@ library(cryptoprice)
 btcId = get_token_id("btc")
 btcPrice = get_token_price(btcId, 90, "daily")
 ```
-Note: *This package works through CoinGecko API. This API has a limit of 100 calls/minute*
+Note: *This package works through [CoinGecko API](https://www.coingecko.com/en/api). This API has a limit of 100 calls/minute*
