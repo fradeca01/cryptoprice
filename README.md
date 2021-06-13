@@ -2,7 +2,7 @@
 
 This is an *R package*. 
 ***
-To install this *package* in **RStudio** run this command:
+To install this *package* in **R** run this command:
 
 ```
 devtools::install_github("fradeca01/cryptoprice")
